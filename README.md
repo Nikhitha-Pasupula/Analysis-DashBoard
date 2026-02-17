@@ -16,7 +16,7 @@ Excel and Power BI.
 
 ### Dataset
 - Source: Kaggle
-- https://www.kaggle.com/ [add your exact dataset link]
+- https://www.kaggle.com/ 
 
 ### Key Findings
 - Identified top 3 high-waste food categories
